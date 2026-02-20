@@ -16,4 +16,4 @@ Example use case:
 ![github screenshot showing the new refactor branch listed](../images/image-1771618405721.png)
 - The urls also change to add the name of the Branch.
 - You make your changes in the Branch which will be independent of the original manual. Nothing you do in the branch will show up in the original manual in View or Edit mode.
-- When you are ready you can MERGE the the branch back into the original manual. This will *overwrite the original* (it will give you plenty of warnings) 
+- When you are ready you can MERGE the the branch back into the original manual. This will **overwrite the original** (it will give you plenty of warnings) 
