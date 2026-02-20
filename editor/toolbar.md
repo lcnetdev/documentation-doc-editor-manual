@@ -22,3 +22,7 @@ These are traditional formating tools some notes though:
 - Links - see the [linking](./linking.md) page for quicker way to insert links
 - Images - see the 
 - Trash Can - this is how you delete the entire page.
+
+[Next Section: Saving](./saving.md)
+
+[Back to Editor Features](./index.md)
