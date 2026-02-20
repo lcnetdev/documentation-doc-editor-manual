@@ -3,7 +3,7 @@
 
 At the bottom of the screen is the Save button and commit message.
 
-![image](../images/image.png)
+![image](../images/image-1771613837647.png)
 
 You do not have enter a commit message but it is useful to describe in a few words what changes you did.
 
@@ -11,3 +11,6 @@ For example "Update to saving page" and hit save. This will save the files local
 
 You can also save using the Ctrl+S shortcut.
 
+The commit will look like this on Github for example. The name is the name you used to log into the editor.
+
+![image](../images/image-1771613857243.png)
