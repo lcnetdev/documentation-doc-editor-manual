@@ -2,7 +2,7 @@
 
 - [How to login](./login.md)
 - [The toolbars](./toolbar.md)
-- [saving](./saving.md)
-- [linking](./linking.md)
-- [images](./images.md)
-- [branch](./branch.md)
+- [What is "saving" mean](./saving.md)
+- [Adding Links](./linking.md)
+- [Adding Images](./images.md)
+- [Using Branches](./branch.md)
