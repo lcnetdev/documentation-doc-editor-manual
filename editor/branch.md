@@ -8,3 +8,4 @@ Example use case:
 - You click the Branch which will show you this dialog:
 ![create branch screenshot](../images/image-1771618002337.png)
 - You name the branch something like "refactor" and click [Create Branch]
+- Save TEST
