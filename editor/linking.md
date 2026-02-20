@@ -2,7 +2,7 @@
 
 Linking between pages is very important to group the manual together.
 
-The manual always looks to display an "index.md" at the root of each directory. 
+The manual always looks to display an `"index.md"` at the root of each directory. 
 
 So the first page of the manual will be `/index.md`
 
@@ -22,6 +22,6 @@ resulting in
 
 The `../` means one level below this.
 
-You can also make links automatically by dragging the file you want to link to into the editor. It will generate the markdown for the link where your cursor is:
+You can also make links automatically by dragging the file you want to link to from the file navigation into the editor. It will generate the markdown for the link where your cursor is:
 
 ![image](../images/editor_manual_linking.webp)
