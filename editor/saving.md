@@ -14,3 +14,8 @@ You can also save using the Ctrl+S shortcut.
 The commit will look like this on Github for example. The name is the name you used to log into the editor.
 
 ![screen shot of the commit as it looks in Github](../images/image-1771613857243.png)
+
+
+[Next Section: Adding Links](./linking.md)
+
+[Back to Editor Features](./index.md)
