@@ -24,4 +24,4 @@
 
 Both the View and Edit mode of the tool has a number of features.
 
-
+- [Editor Features](./editor/index.md)
