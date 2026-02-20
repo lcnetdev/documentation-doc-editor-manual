@@ -15,6 +15,8 @@ The commit will look like this on Github for example. The name is the name you u
 
 ![screen shot of the commit as it looks in Github](../images/image-1771613857243.png)
 
+---
+
 
 [Next Section: Adding Links](./linking.md)
 
