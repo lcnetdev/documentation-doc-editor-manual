@@ -24,4 +24,4 @@ The `../` means one level below this.
 
 You can also make links automatically by dragging the file you want to link to from the file navigation into the editor. It will generate the markdown for the link where your cursor is:
 
-![image](../images/editor_manual_linking.webp)
+![animated screen shots of dragging a link from the nav into the editor panel](../images/editor_manual_linking.webp)
