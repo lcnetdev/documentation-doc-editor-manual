@@ -23,6 +23,8 @@ These are traditional formating tools some notes though:
 - Images - see the 
 - Trash Can - this is how you delete the entire page.
 
+---
+
 [Next Section: Saving](./saving.md)
 
 [Back to Editor Features](./index.md)
