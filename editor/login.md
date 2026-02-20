@@ -11,3 +11,8 @@ You will be prompted to enter a username and password.
 - Use the password given out.
 
 ![image](../images/image-1771617840759.png)
+
+[The Toolbars](./toolbar.md) ->
+
+[Back to Editor Features](./index.md)
+
