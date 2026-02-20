@@ -10,3 +10,4 @@ You do not have enter a commit message but it is useful to describe in a few wor
 For example "Update to saving page" and hit save. This will save the files locally and also git commit and push them to the git repo.
 
 You can also save using the Ctrl+S shortcut.
+
