@@ -17,3 +17,9 @@ The ALT text will show up under the image as well as in the ALT attribute and Ti
 The markdown: `![an image of a burrowing owl](../images/image-1771617429841.png)`
 
 ![an image of a burrowing owl](../images/image-1771617429841.png)
+
+
+
+[Next Section: Branch Mode](./branch.md)
+
+[Back to Editor Features](./index.md)
