@@ -8,4 +8,7 @@ Example use case:
 - You click the Branch which will show you this dialog:
 ![create branch screenshot](../images/image-1771618002337.png)
 - You name the branch something like "refactor" and click [Create Branch]
-- Save TEST
+- The toolbar will now show you have switched to the Branch you just created:
+![toolbar change to branch mode](../images/image-1771618327084.png)
+- If you logged out and looked at the manuals available you will see your new branch:
+![manual available listing](../images/image-1771618304652.png)
