@@ -19,6 +19,8 @@ The markdown: `![an image of a burrowing owl](../images/image-1771617429841.png)
 ![an image of a burrowing owl](../images/image-1771617429841.png)
 
 
+---
+
 
 [Next Section: Branch Mode](./branch.md)
 
