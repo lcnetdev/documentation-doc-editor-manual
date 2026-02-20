@@ -27,6 +27,8 @@ You can also make links automatically by dragging the file you want to link to f
 ![animated screen shots of dragging a link from the nav into the editor panel](../images/editor_manual_linking.webp)
 
 
+---
+
 [Next Section: Adding Images](./images.md)
 
 [Back to Editor Features](./index.md)
