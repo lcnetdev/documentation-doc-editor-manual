@@ -9,3 +9,11 @@ There are two quick ways to add images to the document.
 
 Any images added will be in the format:
 
+`![ALT TEXT HERE](RELATIVE PATH TO IMAGE HERE)`
+
+If you use the drag and drop or paste method you don't need to worry about building the relative path, just the ALT text you want to use.
+The ALT text will show up under the image as well as in the ALT attribute and Title attribute in the HTML, for example:
+
+The markdown: `![an image of a burrowing owl](../images/image-1771617429841.png)`
+
+![an image of a burrowing owl](../images/image-1771617429841.png)
