@@ -14,8 +14,8 @@ To make a manual link writing markdown use the format:
 
 So to link to the root homepage you would do:
 
-`[Home page](/index.md)`
+`[Home page](../index.md)`
 
 resulting in
 
-[Home page](/index.md)
+[Home page](../index.md)
