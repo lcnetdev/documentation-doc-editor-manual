@@ -18,5 +18,7 @@ Example use case:
 - You make your changes in the Branch which will be independent of the original manual. Nothing you do in the branch will show up in the original manual in View or Edit mode.
 - When you are ready you can MERGE the the branch back into the original manual. This will **overwrite the original** (it will give you plenty of warnings) and destroy the branch. It does make a backup but only merge when you are pretty much done making changes. And of course any changes made in the interim in the original branch will be lost. They are not integrated, it is a direct overwrite the original with the branch. 
 
+---
+
 
 [Back to Editor Features](./index.md)
