@@ -19,9 +19,9 @@ The markdown editor panel has another toolbar:
 ![markdown editor toolbar](../images/image-1771615384125.png)
 
 These are traditional formating tools some notes though:
-- Links - see the [linking](./linking.md) page for quicker way to insert links
-- Images - see the 
-- Trash Can - this is how you delete the entire page.
+- Links - see the [linking page](./linking.md)for quicker way to insert links
+- Images - see the [images page](./images.md)
+- Trash Can - allows you to delete the entire file
 
 ---
 
