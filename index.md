@@ -24,7 +24,7 @@
 
 Both the View and Edit mode of the tool has a number of features.
 
-- [Editor Features](./editor/index.md)
+- Editor Features
   - [How to login](./editor/login.md)
   - [The toolbars](./editor/toolbar.md)
   - [What does "saving" mean](./editor/saving.md)
