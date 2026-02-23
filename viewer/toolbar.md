@@ -7,7 +7,7 @@ Over the Nav list
 ![image](../images/image-1771855807503.png)
 
 - Name of the manual
-- Open the Search box
+- Open the [Search box](./search.md)
 - Collapse the panel
 
 
