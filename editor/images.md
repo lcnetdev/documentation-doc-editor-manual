@@ -19,6 +19,8 @@ The markdown: `![an image of a burrowing owl](../images/image-1771617429841.png)
 ![an image of a burrowing owl](../images/image-1771617429841.png)
 
 
+If you want to include an animated image I use this [simple Chrome plugin](https://chromewebstore.google.com/detail/kepcjkdedeocincdhenhepinpkkoghmn).
+
 ---
 
 
