@@ -35,3 +35,4 @@ Both the View and Edit mode of the tool has a number of features.
   - [Toolbars](./viewer/toolbar.md)
   - [Searching](./viewer/search.md)
   - [Nav Menu](./viewer/nav.md)
+
