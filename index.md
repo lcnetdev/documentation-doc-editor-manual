@@ -24,10 +24,14 @@
 
 Both the View and Edit mode of the tool has a number of features.
 
-- Editor Features
+- [Editor Features](./editor/index.md)
   - [How to login](./editor/login.md)
   - [The toolbars](./editor/toolbar.md)
   - [What does "saving" mean](./editor/saving.md)
   - [Adding Links](./editor/linking.md)
   - [Adding Images](./editor/images.md)
   - [Using Branches](./editor/branch.md)
+- [Viewer Features](./viewer/index.md)
+  - [Toolbars](./viewer/toolbar.md)
+  - [Searching](./viewer/search.md)
+  - [Nav Menu](./viewer/nav.md)
