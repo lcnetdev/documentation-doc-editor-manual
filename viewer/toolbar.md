@@ -2,7 +2,7 @@
 There are three toolbar areas in the viewer:
 
 Over the Nav list
-![image](../images/image-1771855807503.png)
+![Over the Nav list](../images/image-1771863840656.png)
 
 - Name of the manual
 - Open the [Search box](./search.md)
@@ -11,7 +11,7 @@ Over the Nav list
 ---
 Over the contents left
 
-![image](../images/image-1771856047386.png)
+![contents toolbar](../images/image-1771863995735.png)
 
 - Book icon, return to the list of all manuals
 - Home icon, return to the index.md of the current open manual
@@ -22,7 +22,7 @@ Over the contents left
 
 Over the contents right
   
-![image](../images/image-1771856193011.png)
+![pdf, edit, darkmode buttons](../images/image-1771864035921.png)
 
 - Opens the manual as a PDF file
 - Opens the manual to edit mode, will prompt for login information
